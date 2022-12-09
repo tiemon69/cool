@@ -3,5 +3,5 @@ background-color:red;
 }
 
 .border {
-border: red solid green;
+border: red solid 5px;
 }
