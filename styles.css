@@ -1,3 +1,7 @@
-.footer {
-background-color:antiquewhite;
+footer {
+background-color:red;
+}
+
+.border {
+border: red solid green;
 }
